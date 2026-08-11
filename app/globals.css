@@ -379,7 +379,7 @@ h1 {
     margin-top: 8px;
   }
 .dialogue {
-  font-size: clamp(0.75rem, 3.35vw, 1.02rem);
+  font-size: clamp(0.75rem, 3.35vw, 0.90rem);
   line-height: 1.18;
 }
   
