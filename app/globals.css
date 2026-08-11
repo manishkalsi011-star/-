@@ -71,13 +71,13 @@ button {
 
 .top-row {
   position: absolute;
-  top: clamp(22px, 4.35vh, 48px);
-  left: clamp(24px, 2.55vw, 49px);
-  right: clamp(24px, 2vw, 38px);
+  top: clamp(22px, 3.35vh, 48px);
+  left: clamp(24px, 1.55vw, 49px);
+  right: clamp(24px, 1vw, 38px);
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-size: clamp(1.05rem, 1.45vw, 1.7rem);
+  font-size: clamp(1.05rem, 1.25vw, 1.7rem);
   font-weight: 600;
   line-height: 1;
   text-shadow: 0 2px 12px rgba(0, 0, 0, 0.48);
