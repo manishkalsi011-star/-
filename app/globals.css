@@ -378,4 +378,9 @@ h1 {
   .song-details time {
     margin-top: 8px;
   }
+.dialogue {
+  font-size: clamp(0.95rem, 4.35vw, 1.08rem);
+  line-height: 1.18;
+}
+  
 }
