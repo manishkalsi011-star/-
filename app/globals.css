@@ -341,7 +341,7 @@ h1 {
   .music-player {
     width: min(700px, 92vw);
     grid-template-columns: 70px minmax(0, 1fr) 126px;
-    bottom: 15vh;
+    bottom: 12vh;
     padding-right: 20px;
   }
 }
